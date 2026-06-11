@@ -1,0 +1,7 @@
+[package]
+name = "superinstance-core"
+version = "0.1.0"
+repository = "https://github.com/casey-digennaro/superinstance-core"
+edition = "2021"
+description = "superinstance-core library"
+license = "MIT"
